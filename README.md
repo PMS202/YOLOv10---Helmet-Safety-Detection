@@ -7,10 +7,6 @@ This project uses YOLOv10 to detect helmet safety compliance in images. The appl
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
